@@ -1,0 +1,4 @@
+# GPU — Quantitative Spot Signal Hunter dependencies
+ccxt>=4.4.0
+pandas>=2.2.0
+requests>=2.32.0

@@ -1,0 +1,7 @@
+# GPU — files that must not be committed
+.env
+*.sqlite3
+__pycache__/
+*.py[cod]
+.venv/
+venv/
